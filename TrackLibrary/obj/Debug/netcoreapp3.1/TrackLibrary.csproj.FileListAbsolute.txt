@@ -1,0 +1,10 @@
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\bin\Debug\netcoreapp3.1\TrackLibrary.deps.json
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\bin\Debug\netcoreapp3.1\TrackLibrary.dll
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\bin\Debug\netcoreapp3.1\TrackLibrary.pdb
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.csproj.AssemblyReference.cache
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.AssemblyInfoInputs.cache
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.AssemblyInfo.cs
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.dll
+C:\Users\hai84\source\repos\PasswordManagerTracker\TrackLibrary\obj\Debug\netcoreapp3.1\TrackLibrary.pdb
